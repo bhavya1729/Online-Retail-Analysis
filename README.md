@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/yekahaaagayeham/online-retail-for-market-basket-
 
 ### **Key Insights**  
 - **Top-Selling Country (Quantity):** The **UK** recorded the highest number of units sold.  
-- **Highest Revenue Generator:** The **Netherlands** generated **€284,533** from **200,769** units, indicating strong revenue potential.  
+- **Highest Revenue Generator: **Netherlands** generated **€284,533** from **200,769** units, indicating strong revenue potential.  
 - **Sales Trends:** The **time-series graph** highlights monthly fluctuations, showing seasonal demand shifts.  
 - **Geographical Distribution:** The **map visualization** provides insights into key markets and potential expansion areas.  
 
