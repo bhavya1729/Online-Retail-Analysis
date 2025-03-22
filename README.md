@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/yekahaaagayeham/online-retail-for-market-basket-
 
 ## **Dashboard 1: Sales Trends & Customer Insights**  
 
-
+![Dashboard Preview](https://github.com/bhavya1729/Online-Retail-Analysis/blob/e303fa2ec78e01b23257b127f2ebbb4698cb7150/Online%20retail%20dashboard%201.png)
 
 ### **Key Questions Answered**  
 - How do sales fluctuate throughout the year?  
@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/yekahaaagayeham/online-retail-for-market-basket-
 - **Visual Representation:* The dashboard highlights the top 10 products by revenue, key customers, and their contribution to overall sales. 
 
 ## **Dashboard 2: Country-Wise Sales Performance**  
-
+![Dashboard Preview]()
 ### **Key Questions Answered**  
 - Which country has the highest quantity of sales?  
 - Which country generates the most revenue?  
@@ -43,6 +43,4 @@ https://www.kaggle.com/datasets/yekahaaagayeham/online-retail-for-market-basket-
 ## **Conclusion**  
 These dashboards offer valuable insights into **sales performance, customer behavior, and market distribution**. Understanding **seasonal trends**, **top-selling products**, and **regional variations** enables businesses to refine pricing strategies, optimize inventory, and enhance customer engagement. Leveraging these insights can drive better decision-making and long-term business growth.  
 
----
 
-This version ensures consistency while maintaining clarity and structure. Let me know if you need any refinements! 🚀
