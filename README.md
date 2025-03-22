@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/yekahaaagayeham/online-retail-for-market-basket-
 - **Visual Representation:* The dashboard highlights the top 10 products by revenue, key customers, and their contribution to overall sales. 
 
 ## **Dashboard 2: Country-Wise Sales Performance**  
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/bhavya1729/Online-Retail-Analysis/blob/ed3100113085a5d3267b3f1981cdea4f92837243/online%20retail%20dashboard%202.png)
 ### **Key Questions Answered**  
 - Which country has the highest quantity of sales?  
 - Which country generates the most revenue?  
